@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoundryCoreXUnit", "FoundryCoreXUnit.csproj", "{7A64FB16-681C-474A-A778-E807257F39FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoundryCore", "..\FoundryCore\FoundryCore.csproj", "{3FBF8579-DA6A-4CD8-966D-8853B985470B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A64FB16-681C-474A-A778-E807257F39FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A64FB16-681C-474A-A778-E807257F39FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A64FB16-681C-474A-A778-E807257F39FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A64FB16-681C-474A-A778-E807257F39FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FBF8579-DA6A-4CD8-966D-8853B985470B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBF8579-DA6A-4CD8-966D-8853B985470B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBF8579-DA6A-4CD8-966D-8853B985470B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBF8579-DA6A-4CD8-966D-8853B985470B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA45A87E-401F-49E4-BEE2-DD81F5CC8F76}
+	EndGlobalSection
+EndGlobal
